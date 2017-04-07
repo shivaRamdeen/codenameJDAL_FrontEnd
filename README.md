@@ -18,5 +18,13 @@ Client Web Frontend for the project
     6. Remove/Block User accounts(via email).
 ## Db TABLES
 ### SERVICE_PROVIDERS
-ID | Provider Name | Description | Contact | Service_category | Region_Location | Service_Price | Member_Price
-----|--------------|-------------|----------|-----------------|------------------|-------------|-------------|
+ID | Provider_Name | Description | Contact | Service_category | Region_Location | Service_Price | Member_Price
+---|---------------|-------------|---------|------------------|-----------------|---------------|-------------
+
+### USERS
+ID | F_NAME | L_NAME | EMAIL | 
+---|----------|--------|-------|
+
+### REVIEWS
+ID | USERS_ID | PROVIDER_ID | COMMENT | STARS
+---|----------|-------------|---------|------

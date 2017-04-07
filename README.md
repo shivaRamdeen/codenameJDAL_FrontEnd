@@ -16,7 +16,7 @@ Client Web Frontend for the project
     4. Search users.
     5. Search Service provider listings.
     6. Remove/Block User accounts(via email).
-## Db TABLES
+## DATABASE TABLES
 ### SERVICE_PROVIDERS
 ID | Provider_Name | Description | Contact | Service_category | Region_Location | Service_Price | Member_Price
 ---|---------------|-------------|---------|------------------|-----------------|---------------|-------------

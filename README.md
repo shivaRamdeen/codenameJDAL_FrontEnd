@@ -19,3 +19,4 @@ Client Web Frontend for the project
 ## Db TABLES
 ### SERVICE_PROVIDERS
 ID | Provider Name | Description | Contact | Service_category | Region_Location | Service_Price | Member_Price
+----|--------------|-------------|----------|-----------------|------------------|-------------|-------------|
